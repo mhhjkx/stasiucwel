@@ -70,7 +70,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <button type="submit">Zakoncz</button>
     </form>
     <?php else: ?>
-    <p>Twoje odpowiedzi zstaly zapisane.</p>
+    <p>JESTEM CWELEM</p>
     <a href="index.php" class="button">Wypelnij ponownie</a>
     <?php endif; ?>
 </div>
