@@ -1,3 +1,3 @@
-# stasiucwel nazwa db ankieta
+# nazwa baza danych ankieta
 
 CREATE TABLE odpowiedzi ( id INT AUTO_INCREMENT PRIMARY KEY, pyt1 VARCHAR(255), pyt2 VARCHAR(255), pyt3 VARCHAR(255), pyt4 VARCHAR(255), pyt5 VARCHAR(255), pyt6 VARCHAR(255), pyt7 VARCHAR(255), pyt8 VARCHAR(255), pyt9 VARCHAR(255), pyt10 VARCHAR(255), pyt11 VARCHAR(255), pyt12 VARCHAR(255), data_wyslania TIMESTAMP DEFAULT CURRENT_TIMESTAMP );
